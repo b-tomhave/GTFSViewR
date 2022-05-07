@@ -7,6 +7,8 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![Codecov test
+coverage](https://codecov.io/gh/b-tomhave/GTFSViewR/branch/master/graph/badge.svg)](https://app.codecov.io/gh/b-tomhave/GTFSViewR?branch=master)
 <!-- badges: end -->
 
 The goal of GTFSViewR is to …

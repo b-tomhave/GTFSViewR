@@ -20,7 +20,7 @@
 ##
 golem::fill_desc(
   pkg_name = "GTFSViewR", # The Name of the package containing the App
-  pkg_title = "GTFSViewR", # The Title of the package containing the App
+  pkg_title = "Visualize GTFS Data Shiny App", # The Title of the package containing the App
   pkg_description = "GTFSViewR is an R Shiny application package designed to visualize GTFS data.", # The Description of the package containing the App
   author_first_name = "Ben", # Your First Name
   author_last_name = "Tomhave", # Your Last Name
